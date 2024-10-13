@@ -5,7 +5,7 @@ Implementation of the Advantage Actor-Critic (A2C) algorithm for training an age
 ### Random agent of CartPole-v1:
 ![Random Agent](./assets/cartpole-game.gif)
 
-### My trained agent of CartPole-v1:
+### Our trained agent of CartPole-v1:
 ![Trained Agent](./assets/final-result.gif)
 
 ## Overview
